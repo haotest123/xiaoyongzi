@@ -1,28 +1,18 @@
-from appium import webdriver
+from framework.browser_engine import BrowserEngine
 import unittest
-from framework.app_engine import AppEngine
+import time
+
 
 class Base_testcase(unittest.TestCase):
     def setUp(self):
-        app=AppEngine()
-        self.driver=app.open_app()
+        #setUp()中的代码  主要是测试的前期准备工作
+        browser= BrowserEngine()
+        self.driver=browser.open_browser()
+        # self.driver=webdriver.Chrome('../tools/chromedriver.exe')
+        # self.driver.implicitly_wait(5)
+        # time.sleep(3)
 
-        # apk_path = os.path.dirname(os.path.abspath('.'))
-        # desired_caps = {}
-        # desired_caps['platformName'] = 'Android'  #设备系统
-        # desired_caps['platformVersion'] = '6.0.1'  #设备版本号
-        # desired_caps['deviceName'] = '127.0.0.1:21503'  #设备名称
-        # # 应用程序的包名
-        # desired_caps['appPackage'] = 'com.example.todolist'
-        # # 激活app界面
-        # desired_caps['appActivity'] = 'com.example.todolist.LoginActivity'
-        # # 覆盖session信息，可多次建立session会话
-        # desired_caps['sessionOverride'] = True
-        # # 测试apk包的路径
-        # desired_caps['app'] = apk_path + '/app/todolist.apk'
-        # # 不需要每次都安装apk,只是启动app
-        # desired_caps['noRest'] = True
-        # # 启动app
-        # self.driver = webdriver.Remote('http://localhost:4723/wd/hub', desired_caps)
     def tearDown(self):
+    # tearDown()中的代码  主要是测试结束后要做的工作
+        time.sleep(5)
         self.driver.quit()

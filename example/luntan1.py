@@ -1,0 +1,72 @@
+from selenium import webdriver
+import time
+
+driver=webdriver.Chrome("../tools/chromedriver.exe")
+try:
+# #用户注册
+    driver.implicitly_wait(3)
+    driver.get('http://127.0.0.1/upload/forum.php')
+    # driver.switch_to.window(driver.current_window_handle)
+    # time.sleep(3)
+    # element = driver.find_element_by_css_selector('.fastlg .y tbody tr:last-child td:last-child a')
+    # element.click()
+    # time.sleep(3)
+    # element1=driver.find_element_by_css_selector('.rfm table tr td #CrxF2K')
+    # element1.send_keys('anyong')
+    # time.sleep(3)
+    # element2=driver.find_element_by_css_selector('.rfm table tbody tr td #I55yg1')
+    # element2.send_keys('868686')
+    # time.sleep(3)
+    # elements=driver.find_element_by_css_selector('.rfm table tbody tr td #klHIPf')
+    # elements.send_keys('868686')
+    # time.sleep(3)
+    # elements1=driver.find_element_by_css_selector('.rfm table tbody tr td #be2td0')
+    # elements1.send_keys('2804160559@qq.com')
+    # time.sleep(3)
+    # elements2= driver.find_element_by_css_selector('.rfm table tbody tr td #reginfo_a_btn #registerformsubmit')
+    # elements2.click()
+#用户登陆
+    time.sleep(5)
+    element = driver.find_element_by_css_selector('.y #ls_username')
+    element.send_keys('anyong')
+    time.sleep(3)
+    element1 = driver.find_element_by_css_selector('.y #ls_password')
+    element1.send_keys('868686')
+    time.sleep(3)
+    element2 = driver.find_element_by_css_selector('.fastlg_l .pn em')
+    element2.click()
+    time.sleep(3)
+
+#默认板块发帖
+    driver.implicitly_wait(5)
+    dianji=driver.find_element_by_css_selector('.fl_tb h2 a')
+    dianji.click()
+    time.sleep(3)
+    element3=driver.find_element_by_css_selector('.pbt #subject')
+    element3.send_keys('天气状况')
+    time.sleep(3)
+    element4=driver.find_element_by_css_selector('.area #fastpostmessage')
+    element4.send_keys('阴天，西北风，偏冷，易感冒')
+    time.sleep(3)
+    element5=driver.find_element_by_css_selector('#fastpostsubmit strong')
+    element5.click()
+    time.sleep(5)
+
+#默认板块回帖
+    driver.implicitly_wait(5)
+    element6=driver.find_element_by_css_selector('.pob em a')
+    element6.click()
+    time.sleep(2)
+    element7=driver.find_element_by_css_selector('.area #postmessage')
+    element7.send_keys('知道了，多穿件衣服吧')
+    time.sleep(2)
+    element8=driver.find_element_by_css_selector('.pn')
+    element8.click()
+
+#用户退出
+    element6=driver.find_element_by_css_selector('.hdc #um p > *:last-child')
+    element6.click()
+    time.sleep(5)
+finally:
+    time.sleep(5)
+    #driver.quit()
