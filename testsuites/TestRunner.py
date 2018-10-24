@@ -5,8 +5,8 @@ import os
 import time
 
 report_path = os.path.dirname(os.path.abspath('.'))+ '/test_report/'
-now = time.strftime('%Y-%m-%d-%H-%M-%S',time.localtime(time.time()))
-HtmlFile = report_path+now+'_result.html'
+# now = time.strftime(time.localtime(time.time()))
+HtmlFile = report_path+'result.html'
 fp = open(HtmlFile,'wb')
 # test_dir='./'
 #加载所有以test开头的.py文件
