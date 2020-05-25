@@ -1,322 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e223746a-6122-4756-ba07-96b82c25ca05" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuites/TestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/TestRunner.py" afterDir="false" />
-    </list>
+    <list default="true" id="e223746a-6122-4756-ba07-96b82c25ca05" name="默认的" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/workspace$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1538911322912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/BNZ.5bb9ec531485b392" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_toupiao_LuntanSerach_test_luntsn_search.coverage" NAME="Unittests for test_luntan_toupiao.LuntanSerach.test_luntsn_search Coverage Results" MODIFIED="1539603199819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/wokspace$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1538136404232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
-    <SUITE FILE_PATH="coverage/wokspace$example4.coverage" NAME="example4 Coverage Results" MODIFIED="1538136508118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
-    <SUITE FILE_PATH="coverage/wokspace$example7.coverage" NAME="example7 Coverage Results" MODIFIED="1538203002535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
-    <SUITE FILE_PATH="coverage/workspace$browser_engine.coverage" NAME="browser_engine Coverage Results" MODIFIED="1539337506048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
-    <SUITE FILE_PATH="coverage/workspace$example3.coverage" NAME="example3 Coverage Results" MODIFIED="1539251947051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$luntan_homepage4.coverage" NAME="luntan_homepage4 Coverage Results" MODIFIED="1539602206109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_taobao_login_BaiduSearch_test_baidu_search.coverage" NAME="Unittests for test_taobao_login.BaiduSearch.test_baidu_search Coverage Results" MODIFIED="1539136364186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$example12.coverage" NAME="example12 Coverage Results" MODIFIED="1539062419434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$manage.coverage" NAME="manage Coverage Results" MODIFIED="1538911273289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/BNZ.5bb9ebef14842acf" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_manager_login_Luntan_manager_login_test_1untan_manager_login.coverage" NAME="Unittests for test_luntan_manager_login.Luntan_manager_login.test_1untan_manager_login Coverage Results" MODIFIED="1539530575196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$anli.coverage" NAME="anli Coverage Results" MODIFIED="1539045277291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1539435237765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_in_test_luntan_search_py.coverage" NAME="Unittests in test_luntan_search.py Coverage Results" MODIFIED="1539571088164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
     <SUITE FILE_PATH="coverage/workspace$errorhandler.coverage" NAME="errorhandler Coverage Results" MODIFIED="1539054944061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/python3.6.6/Lib/site-packages/selenium-3.14.1-py3.6.egg/selenium/webdriver/remote" />
-    <SUITE FILE_PATH="coverage/workspace$luntan4.coverage" NAME="luntan4 Coverage Results" MODIFIED="1539595825599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
-    <SUITE FILE_PATH="coverage/workspace$logger.coverage" NAME="logger Coverage Results" MODIFIED="1539433687381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_in_test_luntan_manager_login_py.coverage" NAME="Unittests in test_luntan_manager_login.py Coverage Results" MODIFIED="1539530676867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$anli1.coverage" NAME="anli1 Coverage Results" MODIFIED="1539045304279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_in_test_baidu_login_py.coverage" NAME="Unittests in test_baidu_login.py Coverage Results" MODIFIED="1539242007081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_toupiao_LuntanSerach.coverage" NAME="Unittests for test_luntan_toupiao.LuntanSerach Coverage Results" MODIFIED="1539602434384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/wokspace$example8.coverage" NAME="example8 Coverage Results" MODIFIED="1538266696712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
+    <SUITE FILE_PATH="coverage/xiaoyongzi$Unittests_in_test_luntan_toupiao_py.coverage" NAME="Unittests in test_luntan_toupiao.py Coverage Results" MODIFIED="1570598636007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$manage.coverage" NAME="manage Coverage Results" MODIFIED="1538911273289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/BNZ.5bb9ebef14842acf" />
+    <SUITE FILE_PATH="coverage/wokspace$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1538136320369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
     <SUITE FILE_PATH="coverage/wokspace$example5.coverage" NAME="example5 Coverage Results" MODIFIED="1538139466912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
-    <SUITE FILE_PATH="coverage/workspace$example9.coverage" NAME="example9 Coverage Results" MODIFIED="1538901936512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_login_Luntan_login.coverage" NAME="Unittests for test_luntan_login.Luntan_login Coverage Results" MODIFIED="1539485549749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$luntan3.coverage" NAME="luntan3 Coverage Results" MODIFIED="1539565035016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
-    <SUITE FILE_PATH="coverage/workspace$yonghu_login.coverage" NAME="yonghu_login Coverage Results" MODIFIED="1539056944000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$example10.coverage" NAME="example10 Coverage Results" MODIFIED="1539062443641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_taobao_login_BaiduSearch.coverage" NAME="Unittests for test_taobao_login.BaiduSearch Coverage Results" MODIFIED="1539136182838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_login_Luntan_login_test_1untan_login.coverage" NAME="Unittests for test_luntan_login.Luntan_login.test_1untan_login Coverage Results" MODIFIED="1539694624414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/wokspace$extract_email.coverage" NAME="extract-email Coverage Results" MODIFIED="1538268839785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa8036.45687" />
+    <SUITE FILE_PATH="coverage/workspace$browser_engine.coverage" NAME="browser_engine Coverage Results" MODIFIED="1539337506048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/workspace$baidu_homepage.coverage" NAME="baidu_homepage Coverage Results" MODIFIED="1539241605068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/workspace$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1538911322912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/BNZ.5bb9ec531485b392" />
+    <SUITE FILE_PATH="coverage/workspace$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1539251893674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/yiliao$yiban_Homepage1.coverage" NAME="yiban_Homepage1 Coverage Results" MODIFIED="1571737544361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjects" />
+    <SUITE FILE_PATH="coverage/workspace$yonghu_reply.coverage" NAME="yonghu_reply Coverage Results" MODIFIED="1539067863444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/workspace$example12.coverage" NAME="example12 Coverage Results" MODIFIED="1539062419434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_baidu_login_BaiduSearch.coverage" NAME="Unittests for test_baidu_login.BaiduSearch Coverage Results" MODIFIED="1539157014347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
     <SUITE FILE_PATH="coverage/workspace$Unittests_in_test_luntan_login_py.coverage" NAME="Unittests in test_luntan_login.py Coverage Results" MODIFIED="1539487066975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$luntan_homepage2.coverage" NAME="luntan_homepage2 Coverage Results" MODIFIED="1539530562557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/workspace$logger.coverage" NAME="logger Coverage Results" MODIFIED="1539433687381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_in_test_luntan_toupiao_py.coverage" NAME="Unittests in test_luntan_toupiao.py Coverage Results" MODIFIED="1539602701655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$yonghu_login.coverage" NAME="yonghu_login Coverage Results" MODIFIED="1539056944000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_in_test_baidu_login_py.coverage" NAME="Unittests in test_baidu_login.py Coverage Results" MODIFIED="1539242007081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$anli1.coverage" NAME="anli1 Coverage Results" MODIFIED="1539045304279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/workspace$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1539251797385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_manager_login_Luntan_manager_login.coverage" NAME="Unittests for test_luntan_manager_login.Luntan_manager_login Coverage Results" MODIFIED="1539530385231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$base.coverage" NAME="base Coverage Results" MODIFIED="1539241609501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
     <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_baidu_search_BaiduSearch_test_baidu_search.coverage" NAME="Unittests for test_baidu_search.BaiduSearch.test_baidu_search Coverage Results" MODIFIED="1539438693303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
     <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_login_Luntan_login_test_1untan_loging.coverage" NAME="Unittests for test_luntan_login.Luntan_login.test_1untan_loging Coverage Results" MODIFIED="1539439420332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$anli__1_.coverage" NAME="anli (1) Coverage Results" MODIFIED="1538978416446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_in_test_luntan_toupiao_py.coverage" NAME="Unittests in test_luntan_toupiao.py Coverage Results" MODIFIED="1539602701655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$TestRunner__1_.coverage" NAME="TestRunner (1) Coverage Results" MODIFIED="1539432052612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites1" />
-    <SUITE FILE_PATH="coverage/wokspace$example9.coverage" NAME="example9 Coverage Results" MODIFIED="1538266621678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
-    <SUITE FILE_PATH="coverage/workspace$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1539251797385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$TestRunner_luntan_login.coverage" NAME="TestRunner_luntan_login Coverage Results" MODIFIED="1539423530895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites1" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_login_Luntan_login_test_1.coverage" NAME="Unittests for test_luntan_login.Luntan_login.test_1 Coverage Results" MODIFIED="1539438579384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/wokspace$example6.coverage" NAME="example6 Coverage Results" MODIFIED="1538183288514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
-    <SUITE FILE_PATH="coverage/workspace$TestRunner.coverage" NAME="TestRunner Coverage Results" MODIFIED="1540361097879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$luntan2.coverage" NAME="luntan2 Coverage Results" MODIFIED="1539525324566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_baidu_login_BaiduSearch.coverage" NAME="Unittests for test_baidu_login.BaiduSearch Coverage Results" MODIFIED="1539157014347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$luntan_homepage2.coverage" NAME="luntan_homepage2 Coverage Results" MODIFIED="1539530562557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
-    <SUITE FILE_PATH="coverage/workspace$luntan_homepage__1_.coverage" NAME="luntan_homepage (1) Coverage Results" MODIFIED="1539485266627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
-    <SUITE FILE_PATH="coverage/workspace$example11.coverage" NAME="example11 Coverage Results" MODIFIED="1539496366702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
+    <SUITE FILE_PATH="coverage/wokspace$example7.coverage" NAME="example7 Coverage Results" MODIFIED="1538203002535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
+    <SUITE FILE_PATH="coverage/yiliao$browser_engine.coverage" NAME="browser_engine Coverage Results" MODIFIED="1570609005628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
     <SUITE FILE_PATH="coverage/workspace$example14.coverage" NAME="example14 Coverage Results" MODIFIED="1538987068516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$luntan1.coverage" NAME="luntan1 Coverage Results" MODIFIED="1539515577618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_base_testcase_Base_testcase.coverage" NAME="Unittests for base_testcase.Base_testcase Coverage Results" MODIFIED="1539438446935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_search_LuntanSerach_test_luntsn_search.coverage" NAME="Unittests for test_luntan_search.LuntanSerach.test_luntsn_search Coverage Results" MODIFIED="1539573844725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$manage__2_.coverage" NAME="manage (2) Coverage Results" MODIFIED="1538911361849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/BNZ.5bb9ec79148646ba" />
-    <SUITE FILE_PATH="coverage/workspace$test_luntan_login.coverage" NAME="test_luntan_login Coverage Results" MODIFIED="1539438882366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_manager_login_Luntan_manager_login.coverage" NAME="Unittests for test_luntan_manager_login.Luntan_manager_login Coverage Results" MODIFIED="1539530385231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
     <SUITE FILE_PATH="coverage/workspace$example13.coverage" NAME="example13 Coverage Results" MODIFIED="1539048334549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/wokspace$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1538136320369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
-    <SUITE FILE_PATH="coverage/workspace$base.coverage" NAME="base Coverage Results" MODIFIED="1539241609501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
-    <SUITE FILE_PATH="coverage/wokspace$anli.coverage" NAME="anli Coverage Results" MODIFIED="1538277158388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
-    <SUITE FILE_PATH="coverage/workspace$yonghu_post.coverage" NAME="yonghu_post Coverage Results" MODIFIED="1539067684977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/wokspace$example3.coverage" NAME="example3 Coverage Results" MODIFIED="1538181445748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
-    <SUITE FILE_PATH="coverage/workspace$yonghu_reply.coverage" NAME="yonghu_reply Coverage Results" MODIFIED="1539067863444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_login_Luntan_login_test_luntan_login.coverage" NAME="Unittests for test_luntan_login.Luntan_login.test_luntan_login Coverage Results" MODIFIED="1539436664826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites1" />
+    <SUITE FILE_PATH="coverage/workspace$luntan_homepage4.coverage" NAME="luntan_homepage4 Coverage Results" MODIFIED="1539602206109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/workspace$test_luntan_login.coverage" NAME="test_luntan_login Coverage Results" MODIFIED="1539438882366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/yiliao$Unittests_in_test_yibanWu_py.coverage" NAME="Unittests in test_yibanWu.py Coverage Results" MODIFIED="1570608758438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_base_testcase_Base_testcase.coverage" NAME="Unittests for base_testcase.Base_testcase Coverage Results" MODIFIED="1539438446935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
     <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_baidu_search_BaiduSearch.coverage" NAME="Unittests for test_baidu_search.BaiduSearch Coverage Results" MODIFIED="1539439287796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$baidu_homepage.coverage" NAME="baidu_homepage Coverage Results" MODIFIED="1539241605068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_login_Luntan_login_test_1untan_login.coverage" NAME="Unittests for test_luntan_login.Luntan_login.test_1untan_login Coverage Results" MODIFIED="1539694624414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_login_Luntan_login_test_1.coverage" NAME="Unittests for test_luntan_login.Luntan_login.test_1 Coverage Results" MODIFIED="1539438579384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/wokspace$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1538136404232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_login_Luntan_login_test_luntan_login.coverage" NAME="Unittests for test_luntan_login.Luntan_login.test_luntan_login Coverage Results" MODIFIED="1539436664826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites1" />
+    <SUITE FILE_PATH="coverage/workspace$luntan4.coverage" NAME="luntan4 Coverage Results" MODIFIED="1539595825599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
+    <SUITE FILE_PATH="coverage/wokspace$example6.coverage" NAME="example6 Coverage Results" MODIFIED="1538183288514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
     <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_baidu_login_BaiduSearch_test_baidu_search.coverage" NAME="Unittests for test_baidu_login.BaiduSearch.test_baidu_search Coverage Results" MODIFIED="1539241686296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
-    <SUITE FILE_PATH="coverage/workspace$Unittests_for_luntan_base_testcase_Luntan_base_testcase.coverage" NAME="Unittests for luntan_base_testcase.Luntan_base_testcase Coverage Results" MODIFIED="1539437869792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites1" />
-    <SUITE FILE_PATH="coverage/wokspace$example8.coverage" NAME="example8 Coverage Results" MODIFIED="1538266696712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
-    <SUITE FILE_PATH="coverage/workspace$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1539251893674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/workspace$anli.coverage" NAME="anli Coverage Results" MODIFIED="1539045277291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/workspace$example9.coverage" NAME="example9 Coverage Results" MODIFIED="1538901936512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_manager_login_Luntan_manager_login_test_1untan_manager_login.coverage" NAME="Unittests for test_luntan_manager_login.Luntan_manager_login.test_1untan_manager_login Coverage Results" MODIFIED="1539530575196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$example10.coverage" NAME="example10 Coverage Results" MODIFIED="1539062443641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/workspace$yonghu_post.coverage" NAME="yonghu_post Coverage Results" MODIFIED="1539067684977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/yiliao$Unittests_for_test_yiban_Zhu_yibanZhu_test_yibanZhu.coverage" NAME="Unittests for test_yiban_Zhu.yibanZhu.test_yibanZhu Coverage Results" MODIFIED="1570605286137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/yiliao$TestRunner.coverage" NAME="TestRunner Coverage Results" MODIFIED="1570869661312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/workspace$luntan3.coverage" NAME="luntan3 Coverage Results" MODIFIED="1539565035016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
+    <SUITE FILE_PATH="coverage/wokspace$anli.coverage" NAME="anli Coverage Results" MODIFIED="1538277158388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
+    <SUITE FILE_PATH="coverage/workspace$example3.coverage" NAME="example3 Coverage Results" MODIFIED="1539251947051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/workspace$TestRunner__1_.coverage" NAME="TestRunner (1) Coverage Results" MODIFIED="1539432052612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites1" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_toupiao_LuntanSerach_test_luntsn_search.coverage" NAME="Unittests for test_luntan_toupiao.LuntanSerach.test_luntsn_search Coverage Results" MODIFIED="1539603199819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$TestRunner.coverage" NAME="TestRunner Coverage Results" MODIFIED="1540361097879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/yiliao$base.coverage" NAME="base Coverage Results" MODIFIED="1570669724760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjects" />
+    <SUITE FILE_PATH="coverage/yiliao$aaaaaaaaa.coverage" NAME="aaaaaaaaa Coverage Results" MODIFIED="1572401433324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace$TestRunner_luntan_login.coverage" NAME="TestRunner_luntan_login Coverage Results" MODIFIED="1539423530895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites1" />
+    <SUITE FILE_PATH="coverage/yiliao$Unittests_for_test_yibanWu_yibanWu_test_yibanWu.coverage" NAME="Unittests for test_yibanWu.yibanWu.test_yibanWu Coverage Results" MODIFIED="1571820005386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_in_test_luntan_manager_login_py.coverage" NAME="Unittests in test_luntan_manager_login.py Coverage Results" MODIFIED="1539530676867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_toupiao_LuntanSerach.coverage" NAME="Unittests for test_luntan_toupiao.LuntanSerach Coverage Results" MODIFIED="1539602434384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_in_test_luntan_search_py.coverage" NAME="Unittests in test_luntan_search.py Coverage Results" MODIFIED="1539571088164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/wokspace$extract_email.coverage" NAME="extract-email Coverage Results" MODIFIED="1538268839785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa8036.45687" />
     <SUITE FILE_PATH="coverage/workspace$luntan_homepage.coverage" NAME="luntan_homepage Coverage Results" MODIFIED="1539505681807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="browser_engine.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pageobjects/base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/logger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestRunner.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsuites/TestRunner.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-              <folding>
-                <element signature="e#1#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="result.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_report/result.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="_result.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_report/_result.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="2018-10-24-11-14-18_result.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_report/2018-10-24-11-14-18_result.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="config.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/config.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base_testcase.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsuites/base_testcase.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_luntan_login.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsuites/test_luntan_login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <SUITE FILE_PATH="coverage/workspace$example11.coverage" NAME="example11 Coverage Results" MODIFIED="1539496366702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_search_LuntanSerach_test_luntsn_search.coverage" NAME="Unittests for test_luntan_search.LuntanSerach.test_luntsn_search Coverage Results" MODIFIED="1539573844725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/wokspace$example4.coverage" NAME="example4 Coverage Results" MODIFIED="1538136508118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
+    <SUITE FILE_PATH="coverage/workspace$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1539435237765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
+    <SUITE FILE_PATH="coverage/workspace$luntan2.coverage" NAME="luntan2 Coverage Results" MODIFIED="1539525324566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_luntan_base_testcase_Luntan_base_testcase.coverage" NAME="Unittests for luntan_base_testcase.Luntan_base_testcase Coverage Results" MODIFIED="1539437869792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites1" />
+    <SUITE FILE_PATH="coverage/workspace$manage__2_.coverage" NAME="manage (2) Coverage Results" MODIFIED="1538911361849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/BNZ.5bb9ec79148646ba" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_taobao_login_BaiduSearch_test_baidu_search.coverage" NAME="Unittests for test_taobao_login.BaiduSearch.test_baidu_search Coverage Results" MODIFIED="1539136364186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$luntan_homepage__1_.coverage" NAME="luntan_homepage (1) Coverage Results" MODIFIED="1539485266627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/wokspace$example3.coverage" NAME="example3 Coverage Results" MODIFIED="1538181445748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
+    <SUITE FILE_PATH="coverage/yiliao$example.coverage" NAME="example Coverage Results" MODIFIED="1572403126398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yiliao$caidan_shouciHomepage1.coverage" NAME="caidan_shouciHomepage1 Coverage Results" MODIFIED="1571736004296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjects" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_luntan_login_Luntan_login.coverage" NAME="Unittests for test_luntan_login.Luntan_login Coverage Results" MODIFIED="1539485549749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/workspace$Unittests_for_test_taobao_login_BaiduSearch.coverage" NAME="Unittests for test_taobao_login.BaiduSearch Coverage Results" MODIFIED="1539136182838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/wokspace$example9.coverage" NAME="example9 Coverage Results" MODIFIED="1538266621678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
+    <SUITE FILE_PATH="coverage/workspace$luntan1.coverage" NAME="luntan1 Coverage Results" MODIFIED="1539515577618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
+    <SUITE FILE_PATH="coverage/workspace$anli__1_.coverage" NAME="anli (1) Coverage Results" MODIFIED="1538978416446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/project/example10.py" />
-        <option value="$PROJECT_DIR$/project/example11.py" />
-        <option value="$PROJECT_DIR$/project/example12.py" />
-        <option value="$PROJECT_DIR$/project/example13.py" />
-        <option value="$PROJECT_DIR$/project/example14.py" />
-        <option value="$PROJECT_DIR$/project/luntan1.py" />
-        <option value="$PROJECT_DIR$/project/luntan2.py" />
-        <option value="$PROJECT_DIR$/framework/read-config.py" />
-        <option value="C:/python3.6.6/Lib/site-packages/selenium-3.14.1-py3.6.egg/selenium/webdriver/common/by.py" />
-        <option value="$PROJECT_DIR$/logs/201810121951.log" />
-        <option value="$PROJECT_DIR$/testsuites/luntan_testcase.py" />
-        <option value="$PROJECT_DIR$/testsuites/luntan_login.py" />
-        <option value="$PROJECT_DIR$/testsuites/luntan_base_testcase.py" />
-        <option value="$PROJECT_DIR$/pageobjects/luntan_base.py" />
-        <option value="$PROJECT_DIR$/testsuites/Test_luntan_login_Runner.py" />
-        <option value="$PROJECT_DIR$/testsuites1.py" />
-        <option value="$PROJECT_DIR$/testsuites1/TestRunner_luntan_login.py" />
-        <option value="$PROJECT_DIR$/testsuites1/luntan_base_testcase.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_baidu_search.py" />
-        <option value="$PROJECT_DIR$/pageobjects/base_luntan_login.py" />
-        <option value="$PROJECT_DIR$/testsuites1/TestRunner.py" />
-        <option value="$PROJECT_DIR$/luntanobjects/base_luntan_login.py" />
-        <option value="$PROJECT_DIR$/example/__init__.py" />
-        <option value="$PROJECT_DIR$/testsuites1/test_luntan_login.py" />
-        <option value="$PROJECT_DIR$/test_1/test_luntan_login.py" />
-        <option value="$PROJECT_DIR$/luntanobjects/luntan_homepage.py" />
-        <option value="$PROJECT_DIR$/example/luntan1.py" />
-        <option value="$PROJECT_DIR$/example/luntan2.py" />
-        <option value="$PROJECT_DIR$/pageobjects/luntan_homepage2.py" />
-        <option value="D:/comall.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_luntan_search.py" />
-        <option value="$PROJECT_DIR$/example/luntan3.py" />
-        <option value="$PROJECT_DIR$/pageobjects/luntan_homepage3.py" />
-        <option value="$PROJECT_DIR$/example/luntan4.py" />
-        <option value="$PROJECT_DIR$/pageobjects/luntan_homepage4.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_luntan_toupiao.py" />
-        <option value="$PROJECT_DIR$/example/test_baidu_search.py" />
-        <option value="$PROJECT_DIR$/pageobjects/luntan_homepage.py" />
-        <option value="$PROJECT_DIR$/pageobjects/base.py" />
-        <option value="$PROJECT_DIR$/pageobjects/yonghu_tiezi.py" />
-        <option value="$PROJECT_DIR$/pageobjects/yonghu_huitie.py" />
-        <option value="$PROJECT_DIR$/pageobjects/yonghu_fatie.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_luntan_login.py" />
-        <option value="$PROJECT_DIR$/testsuites/base_testcase.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_luntan_manager_login.py" />
-        <option value="$PROJECT_DIR$/pageobjects/yonghu_login.py" />
-        <option value="$PROJECT_DIR$/pageobjects/yonghu_shanchu.py" />
-        <option value="$PROJECT_DIR$/config/config.ini" />
-        <option value="$PROJECT_DIR$/framework/browser_engine.py" />
-        <option value="$PROJECT_DIR$/framework/logger.py" />
-        <option value="$PROJECT_DIR$/testsuites/TestRunner.py" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="252" />
-    <option name="y" value="97" />
-    <option name="width" value="1545" />
-    <option name="height" value="940" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="test_report" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="1RxH81ORzvs9p6ELK9vTd8tuCqo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/python3.6.6/Lib/site-packages/selenium-3.14.1-py3.6.egg/selenium/webdriver/common/by.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/StudyOnline" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython\zidonghua\haixia" />
+      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython\zidonghua" />
+      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython\zidonghua\anmeng" />
+      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython" />
+      <recent name="D:\医疗人伤\2019年工作\自动化测试\newPython\zidonghua" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workspace\example" />
-      <recent name="D:\workspace\testsuites" />
-      <recent name="D:\workspace\tools" />
-      <recent name="D:\workspace\pageobjects" />
-      <recent name="D:\workspace\test_1" />
+      <recent name="E:\auto\newPython\zidonghua\anmeng" />
+      <recent name="E:\auto\newPython\zidonghua" />
+      <recent name="D:\auto\newPython\zidonghua" />
+      <recent name="D:\auto\newPython\zidonghua\anmeng" />
+      <recent name="D:\auto\newPython\tools" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -331,7 +141,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TestRunner">
+  <component name="RunManager" selected="Python tests.Unittests for am_yibanWu.yibanWu.test_yibanWu">
+    <configuration name="Log_SendMail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wokspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghua" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zidonghua/Log_SendMail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wokspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -340,125 +172,99 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghua" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsuites/TestRunner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zidonghua/TestRunner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="luntan_homepage4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="wokspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pageobjects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pageobjects/luntan_homepage4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Unittests for test_luntan_login.Luntan_login.test_1untan_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for am_yibanWu.yibanWu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="wokspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghua" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_luntan_login.Luntan_login.test_1untan_login&quot;" />
+      <option name="_new_target" value="&quot;am_yibanWu.yibanWu&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_luntan_login.Luntan_login.test_1untan_loging" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for am_yibanWu.yibanWu.test_yibanWu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="wokspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghua" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_luntan_login.Luntan_login.test_1untan_loging&quot;" />
+      <option name="_new_target" value="&quot;am_yibanWu.yibanWu.test_yibanWu&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_luntan_toupiao.LuntanSerach" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for zidonghua.am_yibanWu.yibanWu.test_yibanWu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="wokspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghua" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_luntan_toupiao.LuntanSerach&quot;" />
+      <option name="_new_target" value="&quot;zidonghua.am_yibanWu.yibanWu.test_yibanWu&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_luntan_toupiao.LuntanSerach.test_luntsn_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in am_yibanWu.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="wokspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghua" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_luntan_toupiao.LuntanSerach.test_luntsn_search&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests in test_luntan_toupiao.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="wokspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testsuites/test_luntan_toupiao.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zidonghua/am_yibanWu.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for test_luntan_toupiao.LuntanSerach" />
-      <item itemvalue="Python tests.Unittests for test_luntan_toupiao.LuntanSerach.test_luntsn_search" />
-      <item itemvalue="Python tests.Unittests in test_luntan_toupiao.py" />
       <item itemvalue="Python.TestRunner" />
-      <item itemvalue="Python tests.Unittests for test_luntan_login.Luntan_login.test_1untan_login" />
+      <item itemvalue="Python tests.Unittests for am_yibanWu.yibanWu.test_yibanWu" />
+      <item itemvalue="Python.Log_SendMail" />
+      <item itemvalue="Python tests.Unittests for am_yibanWu.yibanWu" />
+      <item itemvalue="Python tests.Unittests in am_yibanWu.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for am_yibanWu.yibanWu.test_yibanWu" />
+        <item itemvalue="Python tests.Unittests in am_yibanWu.py" />
+        <item itemvalue="Python tests.Unittests for am_yibanWu.yibanWu" />
+        <item itemvalue="Python.Log_SendMail" />
         <item itemvalue="Python.TestRunner" />
-        <item itemvalue="Python tests.Unittests for test_luntan_login.Luntan_login.test_1untan_login" />
-        <item itemvalue="Python tests.Unittests for test_luntan_toupiao.LuntanSerach.test_luntsn_search" />
-        <item itemvalue="Python tests.Unittests in test_luntan_toupiao.py" />
-        <item itemvalue="Python tests.Unittests for test_luntan_toupiao.LuntanSerach" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -467,98 +273,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537059557509</updated>
+      <workItem from="1575454931344" duration="453000" />
+      <workItem from="1576652369856" duration="700000" />
+      <workItem from="1576659365448" duration="5040000" />
+      <workItem from="1576717858790" duration="27676000" />
+      <workItem from="1576825600754" duration="4724000" />
+      <workItem from="1576836427333" duration="1479000" />
+      <workItem from="1577064949633" duration="678000" />
+      <workItem from="1577147556102" duration="799000" />
+      <workItem from="1577156903793" duration="9825000" />
+      <workItem from="1577238531052" duration="444000" />
+      <workItem from="1577239931452" duration="7822000" />
+      <workItem from="1577253362393" duration="14211000" />
+      <workItem from="1577319568476" duration="3610000" />
+      <workItem from="1577406487904" duration="628000" />
+      <workItem from="1577666661966" duration="1696000" />
+      <workItem from="1577782268118" duration="4059000" />
+      <workItem from="1577924827338" duration="4816000" />
+      <workItem from="1577933462657" duration="5700000" />
+      <workItem from="1578108603410" duration="1871000" />
+      <workItem from="1578270998117" duration="12977000" />
+      <workItem from="1578390311507" duration="1192000" />
+      <workItem from="1578443972862" duration="4471000" />
+      <workItem from="1578531120942" duration="8206000" />
+      <workItem from="1578618011242" duration="1115000" />
+      <workItem from="1578619188428" duration="659000" />
+      <workItem from="1579077941108" duration="563000" />
+      <workItem from="1579078597800" duration="4212000" />
+      <workItem from="1579402955953" duration="3724000" />
+      <workItem from="1579589820696" duration="804000" />
+      <workItem from="1579592930946" duration="2611000" />
+      <workItem from="1587718952550" duration="6431000" />
+      <workItem from="1587860834391" duration="4796000" />
+      <workItem from="1588728929551" duration="157000" />
+      <workItem from="1588846030471" duration="9134000" />
+      <workItem from="1588919767979" duration="323000" />
+      <workItem from="1588920117925" duration="3165000" />
+      <workItem from="1588987813021" duration="10121000" />
+      <workItem from="1589163939902" duration="616000" />
+      <workItem from="1589770101191" duration="419000" />
+      <workItem from="1589770551691" duration="13007000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="Unittests_in_test_luntan_toupiao_py - 2018.10.15 at 18h 49m 13s.xml">
-      <configuration name="Unittests in test_luntan_toupiao.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_luntan_toupiao_LuntanSerach - 2018.10.15 at 18h 52m 55s.xml">
-      <configuration name="Unittests for test_luntan_toupiao.LuntanSerach" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_luntan_toupiao_py - 2018.10.15 at 19h 01m 06s.xml">
-      <configuration name="Unittests in test_luntan_toupiao.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_luntan_toupiao_LuntanSerach_test_luntsn_search - 2018.10.15 at 19h 08m 08s.xml">
-      <configuration name="Unittests for test_luntan_toupiao.LuntanSerach.test_luntsn_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_luntan_toupiao_LuntanSerach_test_luntsn_search - 2018.10.15 at 19h 12m 56s.xml">
-      <configuration name="Unittests for test_luntan_toupiao.LuntanSerach.test_luntsn_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_luntan_toupiao_LuntanSerach_test_luntsn_search - 2018.10.15 at 19h 19m 41s.xml">
-      <configuration name="Unittests for test_luntan_toupiao.LuntanSerach.test_luntsn_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_luntan_toupiao_LuntanSerach - 2018.10.15 at 19h 23m 10s.xml">
-      <configuration name="Unittests for test_luntan_toupiao.LuntanSerach" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_luntan_toupiao_py - 2018.10.15 at 19h 27m 37s.xml">
-      <configuration name="Unittests in test_luntan_toupiao.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_luntan_toupiao_LuntanSerach_test_luntsn_search - 2018.10.15 at 19h 36m 04s.xml">
-      <configuration name="Unittests for test_luntan_toupiao.LuntanSerach.test_luntsn_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_luntan_login_Luntan_login_test_1untan_login - 2018.10.16 at 20h 59m 23s.xml">
-      <configuration name="Unittests for test_luntan_login.Luntan_login.test_1untan_login" configurationId="tests" />
-    </history-entry>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="202" y="78" width="1236" height="752" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.12334437" side_tool="true" weight="0.30395138" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32935154" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.87665564" weight="0.3400621" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16202946" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8783113" weight="0.42941177" />
-      <window_info anchor="bottom" id="找到" order="10" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="检验" order="12" visible="true" weight="0.32935154" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="运行" order="14" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="调试" order="15" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.77235097" weight="0.2775264" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="找到" order="10" />
-      <window_info anchor="bottom" id="运行" order="14" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="检验" order="12" visible="true" weight="0.32935154" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.316847" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.87665564" visible="true" weight="0.41556534" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.77235097" weight="0.2775264" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.12334437" side_tool="true" weight="0.30395138" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="bottom" id="调试" order="15" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8783113" weight="0.42941177" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32935154" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -566,8 +322,28 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -578,294 +354,34 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testsuites/luntan_base_testcase.py" />
-    <entry file="file://$PROJECT_DIR$/luntanobjects/base_luntan_login.py" />
-    <entry file="file://$PROJECT_DIR$/logs/201810141052.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201810141055.log" />
-    <entry file="file://$PROJECT_DIR$/example/baidu_homepage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python3.6.6/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python3.6.6/Lib/linecache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="136" selection-start-line="136" selection-end-line="136" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python3.6.6/Lib/unittest/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python3.6.6/Lib/site-packages/selenium-3.14.1-py3.6.egg/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="238" column="25" selection-start-line="238" selection-start-column="25" selection-end-line="238" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/luntan2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/luntan1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/example3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/example11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/example10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/example1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/anli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/luntan3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python3.6.6/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/luntan4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageobjects/luntan_homepage4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/201810151938.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_report/2018-10-15-19-38-25_result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/test_baidu_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5bc5d0141a1ee239/Demo1.py" />
-    <entry file="file://F:/auto/pageobjects/Dis_guanli_zz_page.py" />
-    <entry file="file://F:/auto/testsuites/Discuz_1.py" />
-    <entry file="file://F:/auto/pageobjects/Dis_guanli_page.py" />
-    <entry file="file://$PROJECT_DIR$/pageobjects/luntan_homepage3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/comall.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="366" column="16" selection-start-line="366" selection-start-column="16" selection-end-line="366" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_luntan_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/auto/pageobjects/Dis_home_page.py" />
-    <entry file="file://$PROJECT_DIR$/pageobjects/luntan_homepage.py" />
-    <entry file="file://$PROJECT_DIR$/pageobjects/yonghu_fatie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/auto/testsuites/test_Discuz_1.py" />
-    <entry file="file://F:/auto/testsuites/test_Discuz_2.py" />
-    <entry file="file://$PROJECT_DIR$/testsuites/test_luntan_manager_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_luntan_toupiao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageobjects/yonghu_shanchu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageobjects/luntan_homepage2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="65" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageobjects/yonghu_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_luntan_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/base_testcase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageobjects/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/TestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#1#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_report/2018-10-24-11-14-18_result.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_report/_result.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_report/result.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/newPython$Log_SendMail.coverage" NAME="Log_SendMail Coverage Results" MODIFIED="1589791064447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_eZhu_xiaoeMen_test_xiaoeMen.coverage" NAME="Unittests for am_eZhu.xiaoeMen.test_xiaoeMen Coverage Results" MODIFIED="1576809107080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_in_am_shangcan_Men_py.coverage" NAME="Unittests in am_shangcan_Men.py Coverage Results" MODIFIED="1576736426936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_for_test_am_yibanWu_yibanWu_test_yibanWu.coverage" NAME="Unittests for test_am_yibanWu.yibanWu.test_yibanWu Coverage Results" MODIFIED="1588991832977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1589788903574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newPython$TestRunner.coverage" NAME="TestRunner Coverage Results" MODIFIED="1589790158012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_in_am_yibanWu_py.coverage" NAME="Unittests in am_yibanWu.py Coverage Results" MODIFIED="1589791088772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$Html_SendMail.coverage" NAME="Html_SendMail Coverage Results" MODIFIED="1577243751003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_shangcan_Men_shangcanMen_test_shangcanMen.coverage" NAME="Unittests for am_shangcan_Men.shangcanMen.test_shangcanMen Coverage Results" MODIFIED="1579078491642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua/anmeng" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_fxiaoerenshang_xiaoerenshang_test_xiaoeMen.coverage" NAME="Unittests for am_fxiaoerenshang.xiaoerenshang.test_xiaoeMen Coverage Results" MODIFIED="1576825795525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_for_base_testcase_base_testcase.coverage" NAME="Unittests for base_testcase.base_testcase Coverage Results" MODIFIED="1589771133234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$run_main__1_.coverage" NAME="run_main (1) Coverage Results" MODIFIED="1578382634490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newPython$a.coverage" NAME="a Coverage Results" MODIFIED="1578537764253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newPython$example.coverage" NAME="example Coverage Results" MODIFIED="1587725883113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newPython$yiban_Homepage1.coverage" NAME="yiban_Homepage1 Coverage Results" MODIFIED="1578273666420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjects" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_yibanWu_yibanWu.coverage" NAME="Unittests for am_yibanWu.yibanWu Coverage Results" MODIFIED="1589791071573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_yibanWu_yibanWu_test_yibanWu.coverage" NAME="Unittests for am_yibanWu.yibanWu.test_yibanWu Coverage Results" MODIFIED="1589791246100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_in_am_fxiaoerenshang_py.coverage" NAME="Unittests in am_fxiaoerenshang.py Coverage Results" MODIFIED="1576810151710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$base.coverage" NAME="base Coverage Results" MODIFIED="1579403036502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjects" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_in_am_yibanMen_py.coverage" NAME="Unittests in am_yibanMen.py Coverage Results" MODIFIED="1588917657143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1578382317425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_in_am_eMen_py.coverage" NAME="Unittests in am_eMen.py Coverage Results" MODIFIED="1588917605584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua/anmeng" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_in_eam_eZhu_py.coverage" NAME="Unittests in am_eZhu.py Coverage Results" MODIFIED="1576739007226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua/anmeng" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_siwang_Zhu_siwangZhu_test_siwangZhu.coverage" NAME="Unittests for am_siwang_Zhu.siwangZhu.test_siwangZhu Coverage Results" MODIFIED="1579078618237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua/anmeng" />
+    <SUITE FILE_PATH="coverage/newPython$aaaaaaaa.coverage" NAME="aaaaaaaa Coverage Results" MODIFIED="1577928073939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_yibanMen_yibanMen_test_yibanMen.coverage" NAME="Unittests for am_yibanMen.yibanMen.test_yibanMen Coverage Results" MODIFIED="1576661783017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
   </component>
 </project>
