@@ -14,7 +14,7 @@ HtmlFile = report_path+'result.html'
 fp=open(HtmlFile,'wb')
 # test_dir='./'
 #加载所有以test开头的.py文件
-suite=unittest.TestLoader().discover('zidonghua',pattern='bm*.py')
+suite=unittest.TestLoader().discover('zidonghua',pattern='am*.py')
 
 
 if __name__=='__main__':

@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e223746a-6122-4756-ba07-96b82c25ca05" name="默认的" comment="" />
+    <list default="true" id="e223746a-6122-4756-ba07-96b82c25ca05" name="默认的" comment="">
+      <change beforePath="E:/.gitignore" beforeDir="false" />
+      <change beforePath="E:/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="E:/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="E:/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="E:/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/.idea/wokspace.iml" beforeDir="false" />
+      <change beforePath="E:/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="E:/config" beforeDir="false" />
+      <change beforePath="E:/example/__init__.py" beforeDir="false" />
+      <change beforePath="E:/example/anli.py" beforeDir="false" />
+      <change beforePath="E:/example/anli1.py" beforeDir="false" />
+      <change beforePath="E:/example/baidu_homepage.py" beforeDir="false" />
+      <change beforePath="E:/example/example1.py" beforeDir="false" />
+      <change beforePath="E:/example/example10.py" beforeDir="false" />
+      <change beforePath="E:/example/example11.py" beforeDir="false" />
+      <change beforePath="E:/example/example12.py" beforeDir="false" />
+      <change beforePath="E:/example/example13.py" beforeDir="false" />
+      <change beforePath="E:/example/example14.py" beforeDir="false" />
+      <change beforePath="E:/example/example2.py" beforeDir="false" />
+      <change beforePath="E:/example/example3.py" beforeDir="false" />
+      <change beforePath="E:/example/example4.py" beforeDir="false" />
+      <change beforePath="E:/example/example5.py" beforeDir="false" />
+      <change beforePath="E:/example/example6.py" beforeDir="false" />
+      <change beforePath="E:/example/example7.py" beforeDir="false" />
+      <change beforePath="E:/example/example8.py" beforeDir="false" />
+      <change beforePath="E:/example/example9.py" beforeDir="false" />
+      <change beforePath="E:/example/luntan1.py" beforeDir="false" />
+      <change beforePath="E:/example/luntan2.py" beforeDir="false" />
+      <change beforePath="E:/example/luntan3.py" beforeDir="false" />
+      <change beforePath="E:/example/luntan4.py" beforeDir="false" />
+      <change beforePath="E:/example/test_baidu_search.py" beforeDir="false" />
+      <change beforePath="E:/framework/__init__.py" beforeDir="false" />
+      <change beforePath="E:/framework/browser_engine.py" beforeDir="false" />
+      <change beforePath="E:/framework/logger.py" beforeDir="false" />
+      <change beforePath="E:/pageobjects/__init__.py" beforeDir="false" />
+      <change beforePath="E:/pageobjects/base.py" beforeDir="false" />
+      <change beforePath="E:/pageobjects/luntan_homepage2.py" beforeDir="false" />
+      <change beforePath="E:/pageobjects/luntan_homepage3.py" beforeDir="false" />
+      <change beforePath="E:/pageobjects/luntan_homepage4.py" beforeDir="false" />
+      <change beforePath="E:/pageobjects/yonghu_fatie.py" beforeDir="false" />
+      <change beforePath="E:/pageobjects/yonghu_huitie.py" beforeDir="false" />
+      <change beforePath="E:/pageobjects/yonghu_login.py" beforeDir="false" />
+      <change beforePath="E:/pageobjects/yonghu_shanchu.py" beforeDir="false" />
+      <change beforePath="E:/test_report/2018-10-15-19-38-25_result.html" beforeDir="false" />
+      <change beforePath="E:/test_report/2018-10-16-08-27-30_result.html" beforeDir="false" />
+      <change beforePath="E:/test_report/2018-10-16-08-28-14_result.html" beforeDir="false" />
+      <change beforePath="E:/test_report/2018-10-23-20-49-08_result.html" beforeDir="false" />
+      <change beforePath="E:/test_report/2018-10-23-20-51-54_result.html" beforeDir="false" />
+      <change beforePath="E:/test_report/2018-10-23-20-53-49_result.html" beforeDir="false" />
+      <change beforePath="E:/test_report/2018-10-24-11-08-58_result.html" beforeDir="false" />
+      <change beforePath="E:/test_report/2018-10-24-11-09-36_result.html" beforeDir="false" />
+      <change beforePath="E:/test_report/2018-10-24-11-14-18_result.html" beforeDir="false" />
+      <change beforePath="E:/test_report/_result.html" beforeDir="false" />
+      <change beforePath="E:/test_report/result.html" beforeDir="false" />
+      <change beforePath="E:/testsuites/TestRunner.py" beforeDir="false" />
+      <change beforePath="E:/testsuites/__init__.py" beforeDir="false" />
+      <change beforePath="E:/testsuites/base_testcase.py" beforeDir="false" />
+      <change beforePath="E:/testsuites/test_luntan_login.py" beforeDir="false" />
+      <change beforePath="E:/testsuites/test_luntan_manager_login.py" beforeDir="false" />
+      <change beforePath="E:/testsuites/test_luntan_search.py" beforeDir="false" />
+      <change beforePath="E:/testsuites/test_luntan_toupiao.py" beforeDir="false" />
+      <change beforePath="E:/tools/chromedriver.exe" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,26 +170,26 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/python3.6.6/Lib/site-packages/selenium-3.14.1-py3.6.egg/selenium/webdriver/common/by.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/StudyOnline" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython\zidonghua\haixia" />
-      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython\zidonghua" />
-      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython\zidonghua\anmeng" />
-      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython" />
-      <recent name="D:\医疗人伤\2019年工作\自动化测试\newPython\zidonghua" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\auto\newPython\zidonghua\anmeng" />
       <recent name="E:\auto\newPython\zidonghua" />
       <recent name="D:\auto\newPython\zidonghua" />
       <recent name="D:\auto\newPython\zidonghua\anmeng" />
       <recent name="D:\auto\newPython\tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython\zidonghua\haixia" />
+      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython\zidonghua" />
+      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython\zidonghua\anmeng" />
+      <recent name="D:\医疗人伤\2019年工作\自动化测试\svn\newPython" />
+      <recent name="D:\医疗人伤\2019年工作\自动化测试\newPython\zidonghua" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -141,8 +204,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for am_yibanWu.yibanWu.test_yibanWu">
-    <configuration name="Log_SendMail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.TestRunner">
+    <configuration name="HTMLTestRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wokspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,12 +213,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghua" />
+      <option name="WORKING_DIRECTORY" value="C:/python/python3.6.6/Lib/site-packages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zidonghua/Log_SendMail.py" />
+      <option name="SCRIPT_NAME" value="C:/python/python3.6.6/Lib/site-packages/HTMLTestRunner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for am_yibanWu.yibanWu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for zidonghua.anmeng.am_yibanWu.yibanWu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="wokspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,11 +260,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;am_yibanWu.yibanWu&quot;" />
+      <option name="_new_target" value="&quot;zidonghua.anmeng.am_yibanWu.yibanWu&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for am_yibanWu.yibanWu.test_yibanWu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for zidonghua.anmeng.am_yibanWu.yibanWu.test_yibanWu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="wokspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,22 +275,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;am_yibanWu.yibanWu.test_yibanWu&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for zidonghua.am_yibanWu.yibanWu.test_yibanWu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="wokspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghua" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;zidonghua.am_yibanWu.yibanWu.test_yibanWu&quot;" />
+      <option name="_new_target" value="&quot;zidonghua.anmeng.am_yibanWu.yibanWu.test_yibanWu&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -242,24 +290,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/zidonghua/am_yibanWu.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zidonghua/anmeng/am_yibanWu.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.TestRunner" />
-      <item itemvalue="Python tests.Unittests for am_yibanWu.yibanWu.test_yibanWu" />
-      <item itemvalue="Python.Log_SendMail" />
-      <item itemvalue="Python tests.Unittests for am_yibanWu.yibanWu" />
+      <item itemvalue="Python.HTMLTestRunner" />
+      <item itemvalue="Python tests.Unittests for zidonghua.anmeng.am_yibanWu.yibanWu.test_yibanWu" />
+      <item itemvalue="Python tests.Unittests for zidonghua.anmeng.am_yibanWu.yibanWu" />
       <item itemvalue="Python tests.Unittests in am_yibanWu.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for am_yibanWu.yibanWu.test_yibanWu" />
-        <item itemvalue="Python tests.Unittests in am_yibanWu.py" />
-        <item itemvalue="Python tests.Unittests for am_yibanWu.yibanWu" />
-        <item itemvalue="Python.Log_SendMail" />
         <item itemvalue="Python.TestRunner" />
+        <item itemvalue="Python tests.Unittests for zidonghua.anmeng.am_yibanWu.yibanWu.test_yibanWu" />
+        <item itemvalue="Python.HTMLTestRunner" />
+        <item itemvalue="Python tests.Unittests in am_yibanWu.py" />
+        <item itemvalue="Python tests.Unittests for zidonghua.anmeng.am_yibanWu.yibanWu" />
       </list>
     </recent_temporary>
   </component>
@@ -313,6 +361,14 @@
       <workItem from="1589163939902" duration="616000" />
       <workItem from="1589770101191" duration="419000" />
       <workItem from="1589770551691" duration="13007000" />
+      <workItem from="1590406375840" duration="234000" />
+      <workItem from="1590406625622" duration="259000" />
+      <workItem from="1590548756577" duration="2706000" />
+      <workItem from="1592383087289" duration="245000" />
+      <workItem from="1592383347406" duration="668000" />
+      <workItem from="1592384029226" duration="1692000" />
+      <workItem from="1592625053845" duration="1001000" />
+      <workItem from="1592631226852" duration="99000" />
     </task>
     <servers />
   </component>
@@ -362,18 +418,19 @@
     <SUITE FILE_PATH="coverage/newPython$Unittests_in_am_shangcan_Men_py.coverage" NAME="Unittests in am_shangcan_Men.py Coverage Results" MODIFIED="1576736426936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
     <SUITE FILE_PATH="coverage/newPython$Unittests_for_test_am_yibanWu_yibanWu_test_yibanWu.coverage" NAME="Unittests for test_am_yibanWu.yibanWu.test_yibanWu Coverage Results" MODIFIED="1588991832977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
     <SUITE FILE_PATH="coverage/newPython$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1589788903574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/newPython$TestRunner.coverage" NAME="TestRunner Coverage Results" MODIFIED="1589790158012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
     <SUITE FILE_PATH="coverage/newPython$Unittests_in_am_yibanWu_py.coverage" NAME="Unittests in am_yibanWu.py Coverage Results" MODIFIED="1589791088772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$TestRunner.coverage" NAME="TestRunner Coverage Results" MODIFIED="1592631252032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
     <SUITE FILE_PATH="coverage/newPython$Html_SendMail.coverage" NAME="Html_SendMail Coverage Results" MODIFIED="1577243751003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
     <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_shangcan_Men_shangcanMen_test_shangcanMen.coverage" NAME="Unittests for am_shangcan_Men.shangcanMen.test_shangcanMen Coverage Results" MODIFIED="1579078491642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua/anmeng" />
     <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_fxiaoerenshang_xiaoerenshang_test_xiaoeMen.coverage" NAME="Unittests for am_fxiaoerenshang.xiaoerenshang.test_xiaoeMen Coverage Results" MODIFIED="1576825795525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$HTMLTestRunner.coverage" NAME="HTMLTestRunner Coverage Results" MODIFIED="1592384271433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/python/python3.6.6/Lib/site-packages" />
     <SUITE FILE_PATH="coverage/newPython$Unittests_for_base_testcase_base_testcase.coverage" NAME="Unittests for base_testcase.base_testcase Coverage Results" MODIFIED="1589771133234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
     <SUITE FILE_PATH="coverage/newPython$run_main__1_.coverage" NAME="run_main (1) Coverage Results" MODIFIED="1578382634490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/newPython$a.coverage" NAME="a Coverage Results" MODIFIED="1578537764253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/newPython$example.coverage" NAME="example Coverage Results" MODIFIED="1587725883113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/newPython$yiban_Homepage1.coverage" NAME="yiban_Homepage1 Coverage Results" MODIFIED="1578273666420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjects" />
     <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_yibanWu_yibanWu.coverage" NAME="Unittests for am_yibanWu.yibanWu Coverage Results" MODIFIED="1589791071573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
-    <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_yibanWu_yibanWu_test_yibanWu.coverage" NAME="Unittests for am_yibanWu.yibanWu.test_yibanWu Coverage Results" MODIFIED="1589791246100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
+    <SUITE FILE_PATH="coverage/newPython$Unittests_for_am_yibanWu_yibanWu_test_yibanWu.coverage" NAME="Unittests for am_yibanWu.yibanWu.test_yibanWu Coverage Results" MODIFIED="1592625062603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
     <SUITE FILE_PATH="coverage/newPython$Unittests_in_am_fxiaoerenshang_py.coverage" NAME="Unittests in am_fxiaoerenshang.py Coverage Results" MODIFIED="1576810151710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />
     <SUITE FILE_PATH="coverage/newPython$base.coverage" NAME="base Coverage Results" MODIFIED="1579403036502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjects" />
     <SUITE FILE_PATH="coverage/newPython$Unittests_in_am_yibanMen_py.coverage" NAME="Unittests in am_yibanMen.py Coverage Results" MODIFIED="1588917657143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghua" />

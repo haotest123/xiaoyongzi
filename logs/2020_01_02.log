@@ -1,0 +1,122 @@
+2020-01-02 10:55:39,522 -browser_engine.py- BrowserEngine - INFO - 使用Chrome浏览器
+2020-01-02 10:55:40,507 -browser_engine.py- BrowserEngine - INFO - 打开医疗云系统
+2020-01-02 10:55:41,673 -am_yibanWu.py- yibanWu - INFO - --------------------------  一般损伤+无治疗场景开始执行  -----------------------
+2020-01-02 10:55:41,673 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击首次查勘------处理任务
+2020-01-02 10:56:24,004 -browser_engine.py- BrowserEngine - INFO - 使用Chrome浏览器
+2020-01-02 10:56:29,317 -browser_engine.py- BrowserEngine - INFO - 打开医疗云系统
+2020-01-02 10:56:30,456 -am_yibanWu.py- yibanWu - INFO - --------------------------  一般损伤+无治疗场景开始执行  -----------------------
+2020-01-02 10:56:30,457 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击首次查勘------处理任务
+2020-01-02 10:56:30,508 -base.py- BasePage - INFO - 执行成功
+2020-01-02 10:56:35,226 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点选待处理
+2020-01-02 10:56:35,283 -base.py- BasePage - INFO - 执行成功
+2020-01-02 10:56:37,459 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击查询
+2020-01-02 10:56:37,495 -base.py- BasePage - INFO - 执行成功
+2020-01-02 10:56:38,309 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击报案号
+2020-01-02 10:57:01,722 -base.py- BasePage - INFO - 激活当前窗口
+2020-01-02 10:57:03,758 -jiuzhen_type.py- jiuzhen - INFO - 点选事故类型
+2020-01-02 10:57:03,820 -base.py- BasePage - INFO - 执行成功
+2020-01-02 10:57:05,862 -jiuzhen_type.py- jiuzhen - INFO - 点选损失类型为：一般损伤
+2020-01-02 10:57:05,902 -base.py- BasePage - INFO - 执行成功
+2020-01-02 10:57:07,925 -jiuzhen_type.py- jiuzhen - INFO - 点选就诊类型为：无治疗
+2020-01-02 10:57:07,966 -base.py- BasePage - INFO - 执行成功
+2020-01-02 10:57:12,182 -yiban_Homepage1.py- yiban_homepage1 - INFO - 输入伤者姓名
+2020-01-02 10:57:12,447 -base.py- BasePage - INFO - 执行成功
+2020-01-02 10:57:14,447 -yiban_Homepage1.py- yiban_homepage1 - INFO - 输入联系电话
+2020-01-02 10:57:14,678 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:33:56,515 -browser_engine.py- BrowserEngine - INFO - 使用Chrome浏览器
+2020-01-02 11:34:01,645 -browser_engine.py- BrowserEngine - INFO - 打开医疗云系统
+2020-01-02 11:34:02,769 -am_yibanWu.py- yibanWu - INFO - --------------------------  一般损伤+无治疗场景开始执行  -----------------------
+2020-01-02 11:34:02,770 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击首次查勘------处理任务
+2020-01-02 11:34:02,810 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:34:06,855 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点选待处理
+2020-01-02 11:34:06,890 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:34:08,910 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击查询
+2020-01-02 11:34:08,975 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:34:09,599 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击报案号
+2020-01-02 11:36:35,194 -browser_engine.py- BrowserEngine - INFO - 使用Chrome浏览器
+2020-01-02 11:36:36,390 -browser_engine.py- BrowserEngine - INFO - 打开医疗云系统
+2020-01-02 11:36:37,503 -am_yibanWu.py- yibanWu - INFO - --------------------------  一般损伤+无治疗场景开始执行  -----------------------
+2020-01-02 11:36:37,503 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击首次查勘------处理任务
+2020-01-02 11:36:37,535 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:36:40,193 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点选待处理
+2020-01-02 11:36:40,237 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:36:42,254 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击查询
+2020-01-02 11:36:42,298 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:36:42,791 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击报案号
+2020-01-02 11:37:33,777 -browser_engine.py- BrowserEngine - INFO - 使用Chrome浏览器
+2020-01-02 11:37:39,496 -browser_engine.py- BrowserEngine - INFO - 打开医疗云系统
+2020-01-02 11:37:40,628 -am_yibanWu.py- yibanWu - INFO - --------------------------  一般损伤+无治疗场景开始执行  -----------------------
+2020-01-02 11:37:40,629 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击首次查勘------处理任务
+2020-01-02 11:37:40,660 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:37:44,555 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点选待处理
+2020-01-02 11:37:44,600 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:37:46,621 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击查询
+2020-01-02 11:37:46,650 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:37:47,162 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击报案号
+2020-01-02 11:43:56,754 -browser_engine.py- BrowserEngine - INFO - 使用Chrome浏览器
+2020-01-02 11:43:59,979 -browser_engine.py- BrowserEngine - INFO - 打开医疗云系统
+2020-01-02 11:44:01,125 -am_yibanWu.py- yibanWu - INFO - --------------------------  一般损伤+无治疗场景开始执行  -----------------------
+2020-01-02 11:44:01,125 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击首次查勘------处理任务
+2020-01-02 11:44:01,166 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:44:03,827 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点选待处理
+2020-01-02 11:44:03,868 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:44:05,891 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击查询
+2020-01-02 11:44:05,946 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:44:06,460 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击报案号
+2020-01-02 11:44:16,908 -base.py- BasePage - INFO - 激活当前窗口
+2020-01-02 11:44:18,929 -jiuzhen_type.py- jiuzhen - INFO - 点选事故类型
+2020-01-02 11:44:18,976 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:44:21,005 -jiuzhen_type.py- jiuzhen - INFO - 点选损失类型为：一般损伤
+2020-01-02 11:44:21,053 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:44:23,089 -jiuzhen_type.py- jiuzhen - INFO - 点选就诊类型为：无治疗
+2020-01-02 11:44:23,156 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:44:27,403 -yiban_Homepage1.py- yiban_homepage1 - INFO - 输入伤者姓名
+2020-01-02 11:44:27,626 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:44:29,626 -yiban_Homepage1.py- yiban_homepage1 - INFO - 输入联系电话
+2020-01-02 11:44:29,827 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:44:31,828 -yiban_Homepage1.py- yiban_homepage1 - INFO - 点选三者类型
+2020-01-02 11:44:31,887 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:44:34,004 -yiban_Homepage1.py- yiban_homepage1 - INFO - 输入身份证号码
+2020-01-02 11:46:35,473 -browser_engine.py- BrowserEngine - INFO - 使用Chrome浏览器
+2020-01-02 11:46:36,585 -browser_engine.py- BrowserEngine - INFO - 打开医疗云系统
+2020-01-02 11:46:37,720 -am_yibanWu.py- yibanWu - INFO - --------------------------  一般损伤+无治疗场景开始执行  -----------------------
+2020-01-02 11:46:37,720 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击首次查勘------处理任务
+2020-01-02 11:46:37,760 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:46:40,514 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点选待处理
+2020-01-02 11:46:40,594 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:46:42,625 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击查询
+2020-01-02 11:46:42,686 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:46:43,216 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击报案号
+2020-01-02 11:46:56,636 -base.py- BasePage - INFO - 激活当前窗口
+2020-01-02 11:46:58,649 -jiuzhen_type.py- jiuzhen - INFO - 点选事故类型
+2020-01-02 11:46:58,684 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:47:00,712 -jiuzhen_type.py- jiuzhen - INFO - 点选损失类型为：一般损伤
+2020-01-02 11:47:00,763 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:47:02,875 -jiuzhen_type.py- jiuzhen - INFO - 点选就诊类型为：无治疗
+2020-01-02 11:47:02,917 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:47:07,092 -yiban_Homepage1.py- yiban_homepage1 - INFO - 输入伤者姓名
+2020-01-02 11:47:07,556 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:47:09,556 -yiban_Homepage1.py- yiban_homepage1 - INFO - 输入联系电话
+2020-01-02 11:47:09,754 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:47:11,754 -yiban_Homepage1.py- yiban_homepage1 - INFO - 点选三者类型
+2020-01-02 11:47:11,804 -base.py- BasePage - INFO - 执行成功
+2020-01-02 11:47:13,865 -yiban_Homepage1.py- yiban_homepage1 - INFO - 输入身份证号码
+2020-01-02 11:47:18,178 -yiban_Homepage1.py- yiban_homepage1 - INFO - 点选事故责任
+2020-01-02 11:47:18,252 -base.py- BasePage - INFO - 执行成功
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

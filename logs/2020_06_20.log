@@ -1,0 +1,6 @@
+2020-06-20 11:51:13,519 -browser_engine.py- BrowserEngine - INFO - 使用Chrome浏览器
+2020-06-20 11:51:14,760 -browser_engine.py- BrowserEngine - INFO - 打开医疗云系统
+2020-06-20 13:34:18,564 -browser_engine.py- BrowserEngine - INFO - 使用Chrome浏览器
+2020-06-20 13:34:19,862 -browser_engine.py- BrowserEngine - INFO - 打开医疗云系统
+2020-06-20 13:34:24,443 -am_yibanWu.py- yibanWu - INFO - --------------------------  一般损伤+无治疗场景开始执行  -----------------------
+2020-06-20 13:34:24,444 -caidan_shouciHomepage1.py- shouci_homepage1 - INFO - 点击首次查勘------处理任务
